@@ -51,11 +51,11 @@ dependencies {
 publishing {
     publications {
         maven(MavenPublication) {
-            groupId = 'com.github.naliya95'
+            groupId = 'com.github.safexpro-x'
             artifactId = 'library'
             version = "1.0.0"
             pom {
-                description = 'naliya95'
+                description = 'safexpro-x'
             }
         }
     }
